@@ -11,3 +11,6 @@
 Ресурс-пак, добавляющий в игру переименованные тотемы с популярными игроками ElectroPlay. Скачать: https://epserv.ru/media/files/eptotems/EPTotems_v1.2.zip.
 
 Имена игроков, поддерживаемые этим ресурспаком: https://epserv.ru/media/files/eptotems/players_v1.2.html.
+
+Ресурспак делающий рамки невидимыми
+[invisible_item_frame.zip](https://github.com/epserv-ru/docs/files/11572861/invisible_item_frame.zip)
